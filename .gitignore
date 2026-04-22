@@ -1,0 +1,23 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+*.exe
+/build/
+/a.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*.swn
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
