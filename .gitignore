@@ -21,3 +21,6 @@ __pycache__/
 
 # Logs
 *.log
+
+# OJ logs
+submission_ids.log
